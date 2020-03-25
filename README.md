@@ -9,6 +9,6 @@ Problem:
 - Problem solution: http://www.usaco.org/current/data/sol_cowland_gold_feb19.html
 
 Online material that I used: 
+- LCA: https://activities.tjhsst.edu/sct/lectures/1718/2017-12-01_Lowest_Common_Ancestor.pdf
 - HLD: https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/
 - Segment tree: https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/
-- LCA: https://activities.tjhsst.edu/sct/lectures/1718/2017-12-01_Lowest_Common_Ancestor.pdf
