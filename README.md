@@ -1,6 +1,6 @@
 # HLD-SegmentTree
 
-Usaco 2019 February Contest, Gold 
+USACO 2019 February Contest, Gold 
 
 Heavy-Light Decomposition (HLD) allows tree paths from the child to the parent to be expressed as a contiguous subarray. We can then use a segment tree to update and get values in O(log n). 
 
