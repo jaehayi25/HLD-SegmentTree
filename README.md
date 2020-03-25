@@ -7,6 +7,7 @@ Heavy-Light Decomposition (HLD) allows tree paths from the child to the parent t
 Problem: 
 - Problem link: http://www.usaco.org/index.php?page=viewproblem2&cpid=921
 - Problem solution: http://www.usaco.org/current/data/sol_cowland_gold_feb19.html
+
 Online material that I used: 
 - HLD: https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/
 - Segment tree: https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/
