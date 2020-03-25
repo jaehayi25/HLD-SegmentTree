@@ -2,7 +2,7 @@
 
 Usaco 2019 February Contest, Gold 
 
-Heavy-Light Decomposition (HLD) allows tree paths from the child to the parent to be expressed as a contiguous subarray. Therefore, we use a segment tree to update and get values in O(log n). 
+Heavy-Light Decomposition (HLD) allows tree paths from the child to the parent to be expressed as a contiguous subarray. We can then use a segment tree to update and get values in O(log n). 
 
 Problem: 
 - Problem link: http://www.usaco.org/index.php?page=viewproblem2&cpid=921
